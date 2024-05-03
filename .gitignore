@@ -1,0 +1,4 @@
+# Dont allow node modules be pushed
+/node_modules/
+/dist/
+/.env
